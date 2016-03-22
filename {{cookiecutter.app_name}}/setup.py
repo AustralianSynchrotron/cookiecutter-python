@@ -9,7 +9,7 @@ setup(
     version=version,
     author='{{cookiecutter.full_name}}',
     author_email='{{cookiecutter.email}}',
-    url='https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.app_name}}',
+    url='https://github.com/AustralianSynchrotron/{{cookiecutter.app_name}}',
     packages=['{{cookiecutter.app_name}}'],
     install_requires=[
     ],

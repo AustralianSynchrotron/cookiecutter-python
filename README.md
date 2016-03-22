@@ -1,4 +1,4 @@
-# Minimalistic Python Package Cookiecutter Template
+# Python Package Cookiecutter Template
 
 [Cookiecutter](https://github.com/audreyr/cookiecutter) template to create a
 python package. Assumes you will use:
@@ -9,5 +9,5 @@ python package. Assumes you will use:
 ## Usage
 
 ```
-cookiecutter gh:RobbieClarken/cookiecutter-python-min
+cookiecutter gh:AustralianSynchrotron/cookiecutter-python
 ```
